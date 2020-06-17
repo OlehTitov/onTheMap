@@ -6,3 +6,5 @@ The goal of the project is to train skills in the areas as follows:
 - usage of REST APIs
 - networking calls (GET, POST, PUT)
 - MapKit
+
+![screenshots](https://github.com/OlehTitov/onTheMap/blob/master/onTheMapAppScreenshots.jpg?raw=true)
